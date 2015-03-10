@@ -1,4 +1,3 @@
 # Notion
-Sistema para analise de dados/big data
+Sistema para analise de dados em larga escala
 
-Sistema em desenvolvimento para uso privado.
