@@ -1,3 +1,4 @@
 # Notion
-Sistema para analise de dados em larga escala
+Sistema para captação e analise de dados em tempo real do Twitter. 
 
+Versão publica. 
